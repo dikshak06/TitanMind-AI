@@ -1,0 +1,11 @@
+1)conda create -n envName
+2)conda activate AIChatBot
+3) Add path of your project.
+4)pip install -r requirements.txt
+
+install Deepseek AI
+ollama run deepseek-r1:1.5b
+
+install ollama software
+
+run:streamlit run ./main.py
