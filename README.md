@@ -38,7 +38,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/TitanMind-AI.git
+git clone https://github.com/dikshak06/TitanMind-AI.git
 cd TitanMind-AI
 
 # Create a virtual environment
